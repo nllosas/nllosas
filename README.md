@@ -64,9 +64,9 @@ I'm a driven autodidact, that enjoys learning new things all the time. I'm a ver
 
 ##  Some projects 🛠️
 
-- Do you want to see fully-working code I wrote? Check out my most recent app [here](https://github.com/nllosas/PI-Henry)
+- Check out my proyect, its a SPA where you can visualize diferent dog breeds and some of their characteristics. If you dont find a breed you have the option to add it. I made [this SPA](https://github.com/nllosas/PI-Henry) while in the Henry Full-Stack Developer Bootcamp.
 
-- I'm also currently contributing to the development of [this group project](https://github.com/nllosas/PF-Henry)
+- PawsFounding is a crowfounding application to find a contribute to shelters around the world, this Aplication has some of the properties of a social network so users can interact with the shelters they are contributing to. Check out the GitHub repo [HERE](https://github.com/nllosas/PF-Henry) 
 
 ##  Interests 👀
 
