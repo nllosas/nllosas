@@ -11,8 +11,7 @@
 
 ##  Hard Skills 📚
 
-I have learned a wide variety of programming languages over the years, some in my college career and some in the Henry Bootcamp. Here I list the languages that I feel most comfortable with: `C, Python, SQL, Typescript and JavaScript`.
-This is a great thing because it lets me read almost any code I see and truly _understand what is happening_.
+I have learned a wide variety of programming languages over the years, some in my college career and some in the Henry Bootcamp. Here I list the languages that I feel most comfortable with: `C, Python and JavaScript`.
 
 I'm excited to start applying my programming skills in a workplace environment, where my ***problem-solving*** and my ***agile learning*** skills will fully bloom.
 
