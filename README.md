@@ -6,6 +6,7 @@
 ---
 
 > I'm a twenty-four-year-old full-stack developer 👨🏽‍💻 from Argentina. I've always been interested in tech. I started my career in Computer Engineering in 2017 to persue my goal to have a space to pour my creative ideas into real life proyects through the medium of programming. In college I learned a lot of the principles of programming and continue to do so. In august of 2022 I made a big jump in my knowledge by taking part in the Henry FullStack developer Bootcamp, where I was tought the PERN Stack to make SPA aplications, and where I partook in the PawsFounding Proyect.
+
 > See my [16personalities profile here!](https://www.16personalities.com/profiles/078971bc5fdd6)
 
 ##  Hard Skills 📚
@@ -19,37 +20,38 @@ Specifically, I know:
 
 ###  Languages
 
-- ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-- ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)
-- ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
-- ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ###  Version control
 
-- ![](https://img.shields.io/badge/-Git-informational?style=flat&logo=Git&logoColor=white&color=2b75ed)
-- ![](https://img.shields.io/badge/-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=2b75ed)
+- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ###  JS libraries/frameworks
-- ![](https://img.shields.io/badge/-Express-informational?style=flat&logo=Express&logoColor=white&color=2b75ed)
-- ![](https://img.shields.io/badge/-React-informational?style=flat&logo=React&logoColor=white&color=2b75ed)
-- ![](https://img.shields.io/badge/-Node-informational?style=flat&logo=Nodedotjs&logoColor=white&color=2b75ed)
-- ![](https://img.shields.io/badge/-Redux-informational?style=flat&logo=Redux&logoColor=white&color=2b75ed)
-- ![](https://img.shields.io/badge/-Sequelize-informational?style=flat&logo=Sequelize&logoColor=white&color=2b75ed)
-- ![](https://img.shields.io/badge/-Webpack-informational?style=flat&logo=Webpack&logoColor=white&color=2b75ed)
+- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+- ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+- ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+- ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Deployment 
+- ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+- ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ###  Databases
-- ![](https://img.shields.io/badge/-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2b75ed)
-- ![](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2b75ed)
+- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ###  Mark up
-
-- ![](https://img.shields.io/badge/-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=2b75ed)
-- ![](https://img.shields.io/badge/-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=2b75ed)
-- ![](https://img.shields.io/badge/-SCSS-informational?style=flat&logo=SASS&logoColor=white&color=2b75ed)
-
-###  Testing
-- ![](https://img.shields.io/badge/-Jest-informational?style=flat&logo=Jest&logoColor=white&color=2b75ed)
-- ![](https://img.shields.io/badge/-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=2b75ed)
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ##  Soft skills 🥳
 
@@ -60,7 +62,7 @@ I would describe myself as a passionate, hard-working, and creative person who c
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nllosas)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nllosas-s&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nllosas&layout=compact)
 
 ##  Some projects 🛠️
 
