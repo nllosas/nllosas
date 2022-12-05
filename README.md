@@ -54,8 +54,7 @@ Specifically, I know:
 
 ##  Soft skills 🥳
 
-I would describe myself as a passionate, hard-working, and creative person who can rise above any challenge.
-
+I'm a driven autodidact, that enjoys learning new things all the time. I'm a very creative and determined person. I can easily learn anything I propose myself to learn and work very well with others. I never shy away from a position of leadership when needed in a group, and take my own organizational skills to any workplace. I enjoy explaining to other people and take pride in helping others.
 
 ##  Some stats 📊
 
