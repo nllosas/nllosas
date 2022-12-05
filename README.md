@@ -1,24 +1,28 @@
 
-#  Hey! I’m Bautista Sánchez 😄
+#  Hey! I’m Nicolas Llosas 😄
 
-###  (@baausanchez on most social media)
+###  (@nicollosas on most social media)
 
 ---
 
-> I'm a nineteen-years-old full stack developer 👨🏽‍💻. I got into the programming world almost five years ago and I've been learning and applying that new knowledge ever since. See my [16personalities profile here!](https://www.16personalities.com/profiles/3ede20010c15e)
+> I'm a twenty-four-year-old full-stack developer 👨🏽‍💻 from Argentina. I've always been interested in tech. I started my career in Computer Engineering in 2017 to persue my goal to have a space to pour my creative ideas into real life proyects through the medium of programming. In college I learned a lot of the principles of programming and continue to do so. In august of 2022 I made a big jump in my knowledge by taking part in the Henry FullStack developer Bootcamp, where I was tought the PERN Stack to make SPA aplications, and where I partook in the PawsFounding Proyect.
+> See my [16personalities profile here!](https://www.16personalities.com/profiles/078971bc5fdd6)
 
 ##  Hard Skills 📚
 
-I have exposed myself to a wide variety of languages such as `Java, Python, SQL and JavaScript`. This way, I can read almost any code I see and truly _understand what is happening_.
+I have learned a wide variety of programming languages over the years, some in my college career and some in the Henry Bootcamp. Here I list the languages that I feel most comfortable with: `C, Python, SQL, Typescript and JavaScript`.
+This is a great thing because it lets me read almost any code I see and truly _understand what is happening_.
 
-I would be prone to say that my **analytical thinking**, my **pattern recognition skills** and my **algorithmic-based reasoning** are very useful when I have the need to learn and/or adapt to a new programming environment.
+I'm excited to start applying my programming skills in a workplace environment, where my ***problem-solving*** and my ***agile learning*** skills will fully bloom.
 
 Specifically, I know:
 
 ###  Languages
 
-- ![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2b75ed)
-- ![](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=2b75ed)
+- ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+- ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)
+- ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
+- ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
 
 ###  Version control
 
@@ -49,26 +53,25 @@ Specifically, I know:
 
 ##  Soft skills 🥳
 
-I would describe myself as a very extroverted person, never afraid of speaking up when something goes wrong, and with high communicative skills, willing to step up to any challenge that may arise.
+I would describe myself as a passionate, hard-working, and creative person who can rise above any challenge.
 
-I am really great at explaining complex matters in the simplest way so even people who might not be remotely close to my area of expertise are able to understand what I am talking about (e.g., parents, friends, coaches). You could say I adapt quickly to my environment.
 
 ##  Some stats 📊
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bautt-s)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nllosas)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bautt-s&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nllosas-s&layout=compact)
 
 ##  Some projects 🛠️
 
-- Do you want to see fully-working code I wrote? Check out my most recent app [here](https://github.com/bautt-s/PI-dogs-henry)
+- Do you want to see fully-working code I wrote? Check out my most recent app [here](https://github.com/nllosas/PI-Henry)
 
-- I'm also currently contributing to the development of [this group project](https://github.com/bautt-s/PF-Henry-Grupo05)
+- I'm also currently contributing to the development of [this group project](https://github.com/nllosas/PF-Henry)
 
 ##  Interests 👀
 
-I’m interested in web development, software engineering, gaming, photography and financial markets. I love cinema, sci-fi, cyberpunk and fantasy being my favourite genres. I also like to read fantasy, classical and philosophy books in my free time.
+I’m interested in web development, software engineering, gaming, and photography. I enjoy playing soccer with friends in the weekends and going for a run when the weather is nice.
 
 ##  Reach me! ✍🏽
 
-📫 Feel free to email me @ 2f.sanchezbautista@gmail.com, see my [LinkedIn profile](https://www.linkedin.com/in/baut-s/) or find me on social media as @baausanchez
+📫 Feel free to email me at nicollosas@gmail.com, or through my [LinkedIn profile](https://www.linkedin.com/in/nico-llosas-fullstack-dev)
