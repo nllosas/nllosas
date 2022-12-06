@@ -3,7 +3,7 @@
 
 ---
 
-> I'm a twenty-four-year-old full-stack developer 👨🏽‍💻 from Argentina. I've always been interested in tech. I started my career in Computer Engineering in 2017 to persue my goal to have a space to pour my creative ideas into real life proyects through the medium of programming. In college I learned a lot of the principles of programming and continue to do so. In august of 2022 I made a big jump in my knowledge by taking part in the Henry FullStack developer Bootcamp, where I was tought the PERN Stack to make SPA aplications, and where I partook in the PawsFounding Proyect.
+> I'm a twenty-four-year-old full-stack developer 👨🏽‍💻 from Argentina. I've always been interested in tech. I started my career in Computer Engineering in 2017 to pursue my goal to have a space to pour my creative ideas into real life projects through the medium of programming. In college I learned a lot of the principles of programming and continue to do so. In august of 2022 I made a big jump in my knowledge by taking part in the Henry Full-Stack developer Bootcamp, where I was taught the PERN Stack to make SPA applications, and where I partook in the PawsFounding Project.
 
 > See my [16personalities profile here!](https://www.16personalities.com/profiles/078971bc5fdd6)
 
