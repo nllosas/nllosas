@@ -11,7 +11,7 @@
 
 ##  Reach me! ✍🏽
 
-📫 Feel free to email me at nicollosas@gmail.com, or get in connect with me in [LinkedIn](https://www.linkedin.com/in/nico-llosas-fullstack-dev)
+📫 Feel free to email me at nicollosas@gmail.com, or connect with me in [LinkedIn](https://www.linkedin.com/in/nico-llosas-fullstack-dev)
 
 ##  Soft skills 🥳
 
