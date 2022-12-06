@@ -9,6 +9,14 @@
 
 > See my [16personalities profile here!](https://www.16personalities.com/profiles/078971bc5fdd6)
 
+##  Reach me! ✍🏽
+
+📫 Feel free to email me at nicollosas@gmail.com, or through my [LinkedIn profile](https://www.linkedin.com/in/nico-llosas-fullstack-dev)
+
+##  Soft skills 🥳
+
+I'm a driven autodidact, that enjoys learning new things all the time. I'm a very creative and determined person. I can easily learn anything I propose myself to learn and work very well with others. I never shy away from a position of leadership when needed in a group, and take my own organizational skills to any workplace. I enjoy explaining to other people and take pride in helping others.
+
 ##  Hard Skills 📚
 
 I have learned a wide variety of programming languages over the years, some in my college career and some in the Henry Bootcamp. Here I list the languages that I feel most comfortable with: `C, Python and JavaScript`.
@@ -52,10 +60,6 @@ Specifically, I know:
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-##  Soft skills 🥳
-
-I'm a driven autodidact, that enjoys learning new things all the time. I'm a very creative and determined person. I can easily learn anything I propose myself to learn and work very well with others. I never shy away from a position of leadership when needed in a group, and take my own organizational skills to any workplace. I enjoy explaining to other people and take pride in helping others.
-
 ##  Some stats 📊
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nllosas&show_icons=true&theme=radical)
@@ -71,7 +75,3 @@ I'm a driven autodidact, that enjoys learning new things all the time. I'm a ver
 ##  Interests 👀
 
 I’m interested in web development, software engineering, gaming, and photography. I enjoy playing soccer with friends in the weekends and going for a run when the weather is nice.
-
-##  Reach me! ✍🏽
-
-📫 Feel free to email me at nicollosas@gmail.com, or through my [LinkedIn profile](https://www.linkedin.com/in/nico-llosas-fullstack-dev)
