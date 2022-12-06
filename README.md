@@ -58,7 +58,7 @@ I'm a driven autodidact, that enjoys learning new things all the time. I'm a ver
 
 ##  Some stats 📊
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nllosas)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nllosas&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nllosas&layout=compact)
 
